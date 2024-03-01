@@ -4538,7 +4538,7 @@
           ],
           "properties": {
             "density": "0",
-            "fill": "#3498db",
+            "fill": "#f3f4f4",
             "fill-opacity": 0.8,
             "name": "XI REGIÓN DE AYSÉN",
             "path": "/world/Chile/XI REGIÓN DE AYSÉN",
@@ -4560,7 +4560,7 @@
           ],
           "properties": {
             "density": "0",
-            "fill": "#3498db",
+            "fill": "#f3f4f4",
             "fill-opacity": 0.8,
             "name": "II REGIÓN DE ANTOFAGASTA",
             "path": "/world/Chile/II REGIÓN DE ANTOFAGASTA",
@@ -4582,7 +4582,7 @@
           ],
           "properties": {
             "density": "0",
-            "fill": "#3498db",
+            "fill": "#f3f4f4",
             "fill-opacity": 0.8,
             "name": "IX REGIÓN DE LA ARAUCANÍA",
             "path": "/world/Chile/IX REGIÓN DE LA ARAUCANÍA",
@@ -4602,7 +4602,7 @@
           ],
           "properties": {
             "density": "0",
-            "fill": "#3498db",
+            "fill": "#f3f4f4",
             "fill-opacity": 0.8,
             "name": "XV REGIÓN DE ARICA Y PARINACOTA",
             "path": "/world/Chile/XV REGIÓN DE ARICA Y PARINACOTA",
@@ -4624,7 +4624,7 @@
           ],
           "properties": {
             "density": "0",
-            "fill": "#3498db",
+            "fill": "#f3f4f4",
             "fill-opacity": 0.8,
             "name": "III REGIÓN DE ATACAMA",
             "path": "/world/Chile/III REGIÓN DE ATACAMA",
@@ -4646,7 +4646,7 @@
           ],
           "properties": {
             "density": "0",
-            "fill": "#3498db",
+            "fill": "#f3f4f4",
             "fill-opacity": 0.8,
             "name": "VIII REGIÓN DEL BÍO BÍO",
             "path": "/world/Chile/VIII REGIÓN DEL BÍO BÍO",
@@ -4668,7 +4668,7 @@
           ],
           "properties": {
             "density": "0",
-            "fill": "#3498db",
+            "fill": "#f3f4f4",
             "fill-opacity": 0.8,
             "name": "IV REGIÓN DE COQUIMBO",
             "path": "/world/Chile/IV REGIÓN DE COQUIMBO",
@@ -4691,7 +4691,7 @@
           ],
           "properties": {
             "density": "0",
-            "fill": "#3498db",
+            "fill": "#f3f4f4",
             "fill-opacity": 0.8,
             "name": "VI REGIÓN DE O´HIGGINS",
             "path": "/world/Chile/VI REGIÓN DE O´HIGGINS",
@@ -4725,7 +4725,7 @@
           ],
           "properties": {
             "density": "0",
-            "fill": "#3498db",
+            "fill": "#f3f4f4",
             "fill-opacity": 0.8,
             "name": "X REGIÓN DE LOS LAGOS",
             "path": "/world/Chile/X REGIÓN DE LOS LAGOS",
@@ -4747,7 +4747,7 @@
           ],
           "properties": {
             "density": "0",
-            "fill": "#3498db",
+            "fill": "#f3f4f4",
             "fill-opacity": 0.8,
             "name": "XIV REGIÓN DE LOS RÍOS",
             "path": "/world/Chile/XIV REGIÓN DE LOS RÍOS",
@@ -4969,7 +4969,7 @@
           ],
           "properties": {
             "density": "0",
-            "fill": "#3498db",
+            "fill": "#f3f4f4",
             "fill-opacity": 0.8,
             "name": "XII REGIÓN DE MAGALLANES",
             "path": "/world/Chile/XII REGIÓN DE MAGALLANES",
@@ -4991,7 +4991,7 @@
           ],
           "properties": {
             "density": "0",
-            "fill": "#3498db",
+            "fill": "#f3f4f4",
             "fill-opacity": 0.8,
             "name": "VII REGIÓN EL MAULE",
             "path": "/world/Chile/VII REGIÓN EL MAULE",
@@ -5012,7 +5012,7 @@
           ],
           "properties": {
             "density": "0",
-            "fill": "#3498db",
+            "fill": "#f3f4f4",
             "fill-opacity": 0.8,
             "name": "RM - METROPOLITANA DE SANTIAGO",
             "path": "/world/Chile/RM - METROPOLITANA DE SANTIAGO",
@@ -5034,7 +5034,7 @@
           ],
           "properties": {
             "density": "0",
-            "fill": "#3498db",
+            "fill": "#f3f4f4",
             "fill-opacity": 0.8,
             "name": "I REGIÓN DE TARAPACÁ",
             "path": "/world/Chile/I REGIÓN DE TARAPACÁ",
@@ -5057,7 +5057,7 @@
           ],
           "properties": {
             "density": "0",
-            "fill": "#3498db",
+            "fill": "#f3f4f4",
             "fill-opacity": 0.8,
             "name": "V  REGIÓN DE VALPARAISO",
             "path": "/world/Chile/V  REGIÓN DE VALPARAISO",
